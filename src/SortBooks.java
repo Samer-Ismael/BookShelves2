@@ -100,6 +100,8 @@ public class SortBooks {
         }
         return remainingSpace;
     }
+    // main is here only for submitting in open kattis !
+    /*
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int smal = scan.nextInt();
@@ -109,4 +111,5 @@ public class SortBooks {
         SortBooks sort = new SortBooks(2,size,big,mid,smal);
         sort.getTheShelves();
     }
+     */
 }
